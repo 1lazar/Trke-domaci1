@@ -17,8 +17,8 @@
 <body>
     
     <h2>AUTOMOBILI</h2>
-    <button type="submit" id="dugme1" class="button button1" name="submit">Automobilima</button>
-    <button type="submit" id="dugme2" class="button button1" name="submit">Vozacima</button>
+    <button type="submit" id="dugme1" class="button button1" name="submit">Informacije o automobilima</button>
+    <button type="submit" id="dugme2" class="button button1" name="submit">Informacije o vozacima</button>
     <button type="submit" name="skloni" id="skloni" class="button button1" onclick="skloniDiv('text')">Skloni tekst</button>
     
     
