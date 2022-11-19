@@ -1,0 +1,2 @@
+Informacija o automobilima su prikazani koja se kola voze na trkama. <br>
+Klikom na dugme Automobili mozete da unesete novi automobil ili ga da obisete automobil iz baze.
