@@ -40,7 +40,7 @@
     //funkcija za ucitavanje teksta
     function ucitajTekst1() {
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "tekst/text.txt", true);
+        xhr.open("GET", "tekst/automobili.txt", true);
 
         xhr.onload = function () {
             if (this.status == 200) {
